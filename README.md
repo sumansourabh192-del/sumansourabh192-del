@@ -18,8 +18,10 @@
 
 ## 🛠 Tech Stack
 
-- Java
-- JavaScript
+ -JAVA
+ -HTML
+ -CSS
+ - JavaScript
 - React.js
 - Node.js
 - Express.js
@@ -41,4 +43,5 @@
 - Master DSA in Java
 - Solve 200+ Coding Problems
 - Build Strong Java & MERN Projects
-- Get a Software Developer Job
+-  Seeking Software Developer Opportunities
+
