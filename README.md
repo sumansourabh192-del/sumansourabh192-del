@@ -1,4 +1,4 @@
- # Hi 👋, I'm Suman Sourabh
+# Hi 👋, I'm Suman Sourabh
 
 ## 🚀 About Me
 
@@ -18,10 +18,10 @@
 
 ## 🛠 Tech Stack
 
- -JAVA
- -HTML
- -CSS
- - JavaScript
+- Java
+- HTML
+- CSS
+- JavaScript
 - React.js
 - Node.js
 - Express.js
@@ -43,5 +43,4 @@
 - Master DSA in Java
 - Solve 200+ Coding Problems
 - Build Strong Java & MERN Projects
--  Seeking Software Developer Opportunities
-
+- Seeking Software Developer Opportunities
